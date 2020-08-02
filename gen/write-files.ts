@@ -1,7 +1,7 @@
 import fse from 'fs-extra';
 import path from 'path';
 
-interface Files {
+export interface Files {
     [path: string]: Buffer | string
 }
 
