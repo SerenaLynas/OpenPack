@@ -5,4 +5,5 @@ OpenPack provides you with open-source, free to use Minecraft-like textures and 
 * Create a PR with your new/modified image(s) and/or generation scripts. All scripts should be written in NodeJS/TypeScript. 
 * **Do not use any Minecraft assets.** Yours may look alike to Minecraft assets, but do not do things like recoloring, warping or flipping Minecraft assets.
 * Do not stray too far from the vanilla look and feel. A build shouldn't look completely different in the vanilla resource pack than this pack.
+
 Any contributions help; the textures don't have to be amazing! Having some textures is better than missing a texture. We can always replace the texture later if we don't like it.
